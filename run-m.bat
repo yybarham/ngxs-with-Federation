@@ -1,0 +1,1 @@
+ng serve mfe1 -o --port 3000
